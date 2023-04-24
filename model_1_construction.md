@@ -5,7 +5,7 @@ The aim of this model was to build an initial model that could learn and reconst
 
 ## Model construction
 The easiest way to summarise this model, is that we concatenated frames across the 5 viewpoints, such that each frame now contained all 5 views.
-The more informative description is that we took the X and Y warp fields (for more info on the warping, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/Warping.html)) and concatenated them with the RGB information. This can a 128 x 128 x 5 matrix for each frame. 
+The more informative description is that we took the X and Y warp fields (for more info on the warping, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/Warping.html)) and concatenated them with the RGB information. This provides a 128 x 128 x 5 matrix for each frame. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/234028096-88e293d7-cbe5-408a-8ff9-9c828b74fc17.png" width="700">
