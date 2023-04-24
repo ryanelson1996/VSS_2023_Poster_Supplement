@@ -5,6 +5,9 @@ Below you can find additional details about how the multi-view spaces were const
 
 ## Methods
 ### Warping
+Warping is a necessary part of the model construction. [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/Warping.html) to see how and warping is performed.
+<br>
+
 ### Model construction
 #### Model 1 - multi-view, simultaneous entry
 #### Model 2 - separate spaces
