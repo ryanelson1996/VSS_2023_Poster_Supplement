@@ -18,6 +18,8 @@ Below you can find additional details about how the multi-view spaces were const
 ## Reconstructions and PCA component videos
 
 #### Model 1 - multi-view, simultaneous entry
+[Click here](http://ryanelson1996.github.io/model_1_multi-view_simultaneious_entry.html) to view the reconstructions and PCA components for model 1.
+<br>
 
 #### Model 2 - separate spaces
 
