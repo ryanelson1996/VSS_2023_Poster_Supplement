@@ -6,12 +6,16 @@ Below you can find additional details about how the multi-view spaces were const
 ## Methods
 ### Warping
 Warping is a necessary part of the model construction. [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/Warping.html) to see how and warping is performed.
+
 <br>
 
 ### Model construction
 [Model 1](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_construction.html) multi-view, simultaneous entry
+
 [Model 2](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_construction.html) separate spaces
+
 [Model 3](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_construction.html)  multi-view, paired entry
+
 <br>
 
 ### Reconstructing frames
@@ -24,11 +28,9 @@ Warping is a necessary part of the model construction. [Click here](https://ryan
 
 #### Model 1 - multi-view, simultaneous entry
 [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_multi-view_simultaneious_entry.html) to view the reconstructions and PCA components for model 1.
-<br>
 
 #### Model 2 - separate spaces
 [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_separate_spaces.html) to view the reconstructions and PCA components for model 2.
-<br>
 
 #### Model 3 - multi-view, paired entry
 
