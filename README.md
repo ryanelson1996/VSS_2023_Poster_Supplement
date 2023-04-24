@@ -19,9 +19,12 @@ Warping is a necessary part of the model construction. [Click here](https://ryan
 <br>
 
 ### Reconstructing frames
-#### Model 1 - multi-view, simultaneous entry
-#### Model 2 - separate spaces
-#### Model 3 - multi-view, paired entry
+[Model 1](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_reconstructing_frames.html) multi-view, simultaneous entry
+
+[Model 2](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_reconstructing_frames.html) separate spaces
+
+[Model 3](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_reconstructing_frames.html) multi-view, paired entry
+
 <br>
 
 ## Reconstructions and PCA component videos
