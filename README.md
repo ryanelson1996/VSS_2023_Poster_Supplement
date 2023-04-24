@@ -16,13 +16,13 @@ Warping is a necessary part of the model construction. [Click here](https://ryan
 #### Model 3 - multi-view, paired entry
 [Model 3 construction](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_construction.html)
 
-<br>
+
 ### Reconstructing frames
 #### Model 1 - multi-view, simultaneous entry
 #### Model 2 - separate spaces
 #### Model 3 - multi-view, paired entry
 
-<br>
+
 ## Reconstructions and PCA component videos
 
 #### Model 1 - multi-view, simultaneous entry
