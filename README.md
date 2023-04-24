@@ -3,8 +3,16 @@ Thank you for taking the time to view our poster and for following the links to 
 Below you can find additional details about how the multi-view spaces were constructed, and videos of reconstructions across views using these spaces, and videos depicting what the components of the PCA spaces look like. 
 
 
-## PCA space demonstrations
-These animations depict the first 3 dimension of a face space constructed using principal component analysis (PCA). At the centre of space is the average face. Scaling along each of the components we can see how the face changes in shape and texture from average, with increasing distance from the average magnifying this difference. The ‘high_caric’ version shows how faces can become heavily caricatured simply by increasing the scaling factor applied to the weights on each component.
+## Methods
+### Warping
+### Model construction
+#### Model 1 - multi-view, simultaneous entry
+#### Model 2 - separate spaces
+#### Model 3 - multi-view, paired entry
+### Reconstructing frames
+#### Model 1 - multi-view, simultaneous entry
+#### Model 2 - separate spaces
+#### Model 3 - multi-view, paired entry
 
 
 ## Reconstructions and PCA component videos
