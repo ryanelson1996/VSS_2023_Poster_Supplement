@@ -10,6 +10,7 @@ Warping is a necessary part of the model construction. [Click here](https://ryan
 
 ### Model construction
 #### Model 1 - multi-view, simultaneous entry
+[Model 1 construction]((https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_construction.html)
 #### Model 2 - separate spaces
 #### Model 3 - multi-view, paired entry
 ### Reconstructing frames
