@@ -36,7 +36,7 @@ Warping is a necessary part of the model construction. [Click here](https://ryan
 [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_separate_spaces.html) to view the reconstructions and PCA components for model 2.
 
 #### Model 3 - multi-view, paired entry
-
+[Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_paired_entry_reconstructions.html) to view the reconstructions and PCA components for model 3.
 
 
 <br>
