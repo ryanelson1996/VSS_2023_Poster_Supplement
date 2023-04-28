@@ -12,3 +12,6 @@ The video below shows some example reconstructions. The top row is the actual fr
 ## PC Videos
 The below videos shows what happens in you slide back and forth along a given component. In each video the face starts off as average, scales along the given component in one direction, then back along the component in the other direction, and then back to average.
 
+This is where you can see some interesting things happening. In PC 1, the face is moving in the same direction in all 5 views, but the magnitude of the motion seems to differ across views. The middle views move a lot more than the full frontal (far left) and full profile (far right).
+
+In PC 10, there is another interesting thing happening. In some views, the motion is going in the opposite direction than in others (despite efforts to repair this, which seems to have worked for some components but not other), but the exact flip of motion is not always apparent. The full profile view is doing a different action. The head is moving, but the mouth barely changes at all unlike the other views.
