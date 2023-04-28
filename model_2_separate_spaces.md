@@ -15,20 +15,24 @@ The subsequent rows shows the reconstructions made by projecting in just the vie
 <br>
 
 ## PC Videos
-The below videos shows what happens in you slide back and forth along a given component. In each video the face starts off as average, scales along the given component in one direction, then back along the component in the other direction, and then back to average. Note that in this model, the PCA has been performed on each view separately, therefore the videos are from scaling along the given PC in each space separately, and therefore the action in one space might not correspond to the action in another space.
+The below videos shows what happens in you slide back and forth along a given component. In each video the face starts off as average, scales along the given component in one direction, then back along the component in the other direction, and then back to average. Note that in this model, the PCA has been performed on each view separately. The videos are from scaling along the given PC in each space separately, and therefore the action in one space might not correspond to the action in another space. For example while the actions in PC 1 are consistent across views (other than a sign flip), the motion in PC 5 differs across the views. This is ok because we do not reconstruct across views by repeating the same loading for a given component across views, and instead learn which components represented correlated actiona across the spaces.
 
 PC 1
 
 <br>
+
 PC 2
 
 <br>
+
 PC 3
 
 <br>
+
 PC 4
 
 <br>
+
 PC 5
 
 <br>
