@@ -55,6 +55,8 @@ Asthana, A., Marks, T. K., Jones, M. J., Tieu, K. H., & Rohith, M. V. (2011, Nov
 
 Burt, A. L., & Crewther, D. P. (2020). The 4D space-time dimensions of facial perception. Frontiers in psychology, 11, 1842. [[DOI]](https://doi.org/10.3389/fpsyg.2020.01842)
 
+Hassner, T., Harel, S., Paz, E., & Enbar, R. (2015). Effective face frontalization in unconstrained images. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4295-4304). [[LINK]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Hassner_Effective_Face_Frontalization_2015_CVPR_paper.html)
+
 Taigman, Y., Yang, M., Ranzato, M. A., & Wolf, L. (2014). Deepface: Closing the gap to human-level performance in face verification. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1701-1708). [[LINK]](https://openaccess.thecvf.com/content_cvpr_2014/html/Taigman_DeepFace_Closing_the_2014_CVPR_paper.html)
 
 Valentine, T. (1991). A unified account of the effects of distinctiveness, inversion, and race in face recognition. The Quarterly Journal of Experimental Psychology Section A, 43(2), 161-204. [[DOI]](https://doi.org/10.1080/14640749108400966) 
