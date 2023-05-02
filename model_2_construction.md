@@ -25,4 +25,8 @@ We could learn the correlations directly from view 1 to view 5, but this would n
 While this model is more biologically plausible, it is does not acheive all of the desired aims that we are after. While view-invariant as a system, there is no single 'unit' that is view-invariant. By 'unit' I mean that there is no equivalent of a single neuron that is view-invariant. In the multi-view spaces a multi-view component would be a single view-invariant 'unit'. Therefore, we would want to add a further level to this model so that a single 'unit' in this level could be view-invariant.
 
 
+<br>
 
+To see how the frames were reconstructed, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_reconstructing_frames.html).
+
+To see example reconstructions and demonstrations of some of the components, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_separate_spaces.html).
