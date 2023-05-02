@@ -4,6 +4,8 @@ In this model we aimed to create a single PCA space, in which we concatenated ne
 
 In the reconstructions below, we have not applied any scaling, unlike in the reconstruction video for Model 1. The aim of the scaling is to work out what scaling is required to move the single-view loadings onto the multi-view loadings, which in Model 1 gave the best reconstructions. In this model however, the multi-view reconstructions aren't great (these are the reconstructions from projecting in all 5 views together). As can be seen below, the reconstructions from the multi-view inputs are caricatured. By looking at the PC videos further down, you can see that this is because the magnitude of the motion across the views now differs across the viewpoints, and in some cases the actual motion in the different views seems to differ.
 
+Click [here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_construction.html) for details on how the model was constructed and [here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_reconstructing_frames.html) to see how the frames were reconstructed.
+
 ## Reconstructions
 The video below shows some example reconstructions. The top row is the actual frames. The second row down is the reconstructions made when we project in all 5 views together (note the comments aboe).The subsequent rows shows the reconstructions made by projecting in just the view bounded by the red box.
 
