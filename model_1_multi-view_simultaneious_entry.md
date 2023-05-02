@@ -4,12 +4,14 @@ In this model, we concatenated information about all 5 views together, and perfo
 
 Below I will first show you an example of a reconstruction made using this model, and then further down you can see a video showing what some of the components look like.
 
+Click [here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_construction.html) for details on how the model was constructed and [here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_reconstructing_frames.html) to see how the frames were reconstructed.
+
 ## Reconstructions
 
 The video below shows some example reconstructions.
 The top row is the actual frames. The second row down is the reconstructions made when we project in all 5 views together. In this particular model, this gives us a baseline of what we can actually acheive.
 The subsequent rows shows the reconstructions made by projecting in just the view bounded by the red box. 
-In the following video, scaling has been applied to make accurate reconstructions. To learn more about the scaling, click here.
+In the following video, scaling has been applied to make accurate reconstructions. To learn more about the scaling, click the link above that shows you how the frames were reconstructed.
 
 <video src="https://user-images.githubusercontent.com/58479570/233998081-07c729e8-9ec0-4431-9193-f0ad4ff041ab.mp4" controls="controls" style="max-width: 730px;">
 </video>
