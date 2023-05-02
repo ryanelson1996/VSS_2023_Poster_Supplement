@@ -22,7 +22,7 @@ While some details of model contruction was the same (such as the warping and li
 
 [Model 2](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_construction.html) separate spaces
 
-[Model 3](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_construction.html)  multi-view, paired entry
+[Model 3](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_construction.html) multi-view, paired entry
 
 <br>
 
@@ -38,19 +38,18 @@ After making the models, we then want to see how well the models can reconstruct
 <br>
 
 ## Reconstructions and PCA component videos
-By clicking on each of the links below, you can see examples of the reconstructions made using the different models.
+By clicking on each of the links below, you can see examples of the reconstructions made using the different models and demonstration videos depicting the PCA components.
 
-#### Model 1 - multi-view, simultaneous entry
-[Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_multi-view_simultaneious_entry.html) to view the reconstructions and PCA components for model 1.
+[Model 1](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_multi-view_simultaneious_entry.html)  multi-view, simultaneous entry
 
-#### Model 2 - separate spaces
-[Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_separate_spaces.html) to view the reconstructions and PCA components for model 2.
+[Model 2](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_separate_spaces.html) separate spaces
 
-#### Model 3 - multi-view, paired entry
-[Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_paired_entry_reconstructions.html) to view the reconstructions and PCA components for model 3.
+[Model 3](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_paired_entry_reconstructions.html) multi-view, paired entry
+
+<br>
 
 ## Measuring reconstruction accuracy
-This is currently a work in progess, but we want to be able to quantify the reconstruction accuracy. We can visually assess the reconstructions to see how accurate they look, but to compare models and scaling methods it can be useful to add some numbers. Some methods of quantifying reconstruction accuracy can be seen below.
+This is currently a work in progess, but we want to be able to quantify the reconstruction accuracy. We can visually assess the reconstructions to see how accurate they look, but to compare models and scaling methods it can be useful to add some numbers. Some methods of quantifying reconstruction accuracy can be seen by following [this link](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/measuring_reconstruction_accuracy.html).
         
 
 <br>
