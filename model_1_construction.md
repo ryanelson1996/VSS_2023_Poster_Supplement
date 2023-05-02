@@ -26,5 +26,10 @@ We then stitched the 5 views together such that each frame (column) now containe
 
 We then subtracted the average column from the matrix, and performed principal component analsis to create our multi-view PCA space.
 
+<br>
+
+To see how the frames were reconstructed, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_reconstructing_frames.html).
+
+To see example reconstructions and demonstrations of some of the components, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_1_multi-view_simultaneious_entry.html).
 
 
