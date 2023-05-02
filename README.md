@@ -6,8 +6,7 @@ Below you can find additional details about how the multi-view spaces were const
 ## Methods
 
 ### Video collection
-- Video collection was performed by a previous PhD student. 
-- Videos were recorded simultaneously from 5 viewpoints while actors (n=9) repeated a selection of sentences, such as "Miss Black thought about the lap". 
+Videos were recorded simultaneously from 5 viewpoints while actors (n=9) repeated a selection of sentences, such as "Miss Black thought about the lap". 
 
 <br>
 
