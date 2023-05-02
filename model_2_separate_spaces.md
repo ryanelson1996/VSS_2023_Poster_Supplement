@@ -4,6 +4,8 @@ In this model, we performed principal component analysis (PCA) on each view sepa
 
 Below I will first show you an example of a reconstruction made using this model, and then further down you can see a video showing what some of the components look like.
 
+Click [here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_construction.html) for details on how the model was constructed and [here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_2_reconstructing_frames.html) to see how the frames were reconstructed.
+
 ## Reconstructions
 
 The video below shows some example reconstructions.
