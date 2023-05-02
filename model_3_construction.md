@@ -14,5 +14,9 @@ In this model, we used the idea that view-selective neurons are broadly tuned, a
 
 We then perform a PCA on that big matrix.
 
+<br>
 
+To see how the frames were reconstructed, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_reconstructing_frames.html).
+
+To see example reconstructions and demonstrations of some of the components, [click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/model_3_paired_entry_reconstructions.html).
 
