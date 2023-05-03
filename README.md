@@ -2,16 +2,19 @@
 Thank you for taking the time to view our poster and for following the links to the supplementary materials.
 Below you can find additional details about how the multi-view spaces were constructed, and videos of reconstructions across views using these spaces, and videos depicting what the components of the PCA spaces look like. 
 
+<br>
 
-## Methods
-
-### Video collection
-Videos were recorded simultaneously from 5 viewpoints while actors (n=9) repeated a selection of sentences, such as "Miss Black thought about the lap". 
+## Aim
+Currently it is unclear if view-invariance of faces in humans is acheived using a single 3D representation, or interpolation using a set of 2D representations. The aim of our work is to explore how and whether it is possible to build a view-invariant representation of faces that can learn and reconstruct facial motion across changes in view, but using a set of 2D representations rather than a 3D representation.
 
 <br>
 
-### Warping
-Warping is a necessary part of the model construction. [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/Warping.html) to see how and why warping is performed.
+## Methods
+
+### Video collection and warping
+Videos were recorded simultaneously from 5 viewpoints while actors (n=9) repeated a selection of sentences, such as "Miss Black thought about the lap". 
+
+Warping is a necessary part of the model construction for each of the models. In summary it aligns each frame to a template frame for the respective view. [Click here](https://ryanelson1996.github.io/VSS_2023_Poster_Supplement/Warping.html) to see how and why warping is performed.
 
 <br>
 
@@ -55,6 +58,8 @@ This is currently a work in progess, but we want to be able to quantify the reco
 <br>
 
 ## Contact  
+
+If you have any questions, or any suggestions, please feel free to get in touch!
 
 Twitter: [@Ryan_J_Elson](https://twitter.com/Ryan_J_Elson)  
 
