@@ -1,10 +1,21 @@
 # Warping
 
-In order to make the spaces, we first need to bring the frames into alignment. The videos are therefore warped to align each frame in a video to a template frame for that view. This uses the Multi-channel Gradient Model developed by Johnston and colleages (1992, 1999). The output of this is that each frame is then spatially aligned to the reference frame, but still has deviations in texture relative to this template frame. We also are provided with horizontal and vertical warp fields that explain how to move the pixels in order to move from the individual frame to the reference frame. These fields can be inverted so that we can then determine how to move from the shape of the template frame back to an individual frame. 
+In order to make the spaces, we first need to bring the frames into alignment. The videos are therefore warped to align each frame in a video to a template frame for that view. This uses the Multi-channel Gradient Model developed by Johnston and colleages (1992, 1999). The output of this is that each frame is then spatially aligned to the reference frame, but still has deviations in texture relative to this template frame. We also are provided with horizontal and vertical warp fields that explain how to move the pixels in order to move from the individual frame to the reference frame. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/235941049-39731d83-be76-40cf-b224-79bd75b4b46e.png" width="700">
+</p>
+
+These fields can be inverted so that we can then determine how to move from the shape of the template frame back to an individual frame.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58479570/235941077-7afa3a3e-0224-4314-98bb-1805a5b8407c.png" width="700">
+</p>
 
 <br>
 
-This therefore gives us both texture and shape deviations from the template. 
+This therefore gives us both texture and shape deviations from the template that can be used to reconstruct the given frame.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58479570/234024167-d38625b9-0357-47ed-a12a-2f3911756d1b.png" width="700">
 </p>
