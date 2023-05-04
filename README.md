@@ -57,6 +57,19 @@ This is currently a work in progess, but we want to be able to quantify the reco
 
 <br>
 
+## Summary
+In summary, we have been able to reconstruct motion well across views, with Model 2 being both the most accurate reconstructions and the most biologically plausible. 
+
+Model 1 showed accurate reconstructions, but lacks biological plausibility due to being able to 'see' all 5 views at once. 
+
+Model 3 contains 'units' (components) that contain information about all 5 views, and so shows some promise, but the motion can vary across the views within a given component. This would need to be fixed for the model to be plausible. 
+
+Model 2 does not (yet) have any 'units' that contain information about all 5 views, but we are able to reconstruct motion remarkably well across views using this model and it is more biologically plausible.
+
+This suggests that a 3D representation of the face may not be necessary for mentally rotating a face during speech, and that a 2D representation may be sufficient.
+
+<br>
+
 ## Contact  
 
 If you have any questions, or any suggestions, please feel free to get in touch!
