@@ -4,6 +4,11 @@ Below you can find additional details about how the multi-view spaces were const
 
 <br>
 
+## Abstract and poster pdf
+The abstract and pdf of our poster can be found [here](https://www.visionsciences.org/presentation/?id=5453).
+
+<br>
+
 ## Aim
 Currently it is unclear if view-invariance of faces in humans is acheived using a single 3D representation, or interpolation using a set of 2D representations. The aim of our work is to explore how and whether it is possible to build a view-invariant representation of faces that can learn and reconstruct facial motion across changes in view, but using a set of 2D representations rather than a 3D representation.
 
