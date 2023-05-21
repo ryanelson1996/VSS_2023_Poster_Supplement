@@ -1,6 +1,6 @@
 # Additional materials for VSS poster presentation, May 2023
-Thank you for taking the time to view our poster and for following the links to the supplementary materials.
-Below you can find additional details about how the multi-view spaces were constructed, and videos of reconstructions across views using these spaces, and videos depicting what the components of the PCA spaces look like. 
+Thank you for viewing our poster and for following the links to the supplementary materials.
+Below you can find additional details about how the multi-view spaces were constructed, videos of reconstructions across views using these spaces, and videos depicting what the components of the PCA spaces look like. 
 
 <br>
 
